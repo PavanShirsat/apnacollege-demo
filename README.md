@@ -1,2 +1,3 @@
-# apnacollege-demo
-THis is my first Git Repository
+# demoproject
+This is my first Git Repository
+Author - Pavan Shirsat
